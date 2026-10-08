@@ -24,7 +24,7 @@ SkinPort
 txloader
 Unlib
 +UnmixinsAll
-Waila n/
+Waila /n
 Xaeros Minimap
 Xaeros WorldMap
 
